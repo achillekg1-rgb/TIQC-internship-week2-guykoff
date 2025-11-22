@@ -59,7 +59,7 @@ export default function SignInPage() {
                   <Label htmlFor="password" className="text-sm sm:text-base">
                     Password
                   </Label>
-                  <Link href="#" className="text-xs text-primary hover:underline">
+                  <Link href="/auth/forgot-password" className="text-xs text-primary hover:underline">
                     Forgot password?
                   </Link>
                 </div>
